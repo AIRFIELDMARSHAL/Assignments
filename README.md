@@ -12,6 +12,14 @@ Assignment 1
 
 **Description:** Takes a number as an input from user then divides it with it 2 if the remainder is 0 it prints "Even" else "Odd".
 
-### **Program 3: Sum of Integers from 1 to 50 using loop**
+### **Program 4: Sum of Integers from 1 to 50 using loop**
 
 **Description:** using for Loop add all number from 1 to 50 and prints the result.gitsfsf
+
+### **Program 5: Calculate factorial using function**
+
+**Description:** took input frokm user and used the recursion to find the factorial
+
+### **Program 6: Using the math module for calculations**
+
+**Description:** Took input from user and used math module for calculations.
