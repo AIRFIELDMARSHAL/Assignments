@@ -1,4 +1,4 @@
-# Assignment 1
+Assignment 1
 
 ### **program 1 : Performing the basic math operations**
 
@@ -7,3 +7,11 @@
 ### **Program 2: Creating a personlised greeting**
 
 **Description:** Takes first name and last name and prints the personlised greeting with that input.
+
+### **Program 3: Check if number is even or odd**
+
+**Description:** Takes a number as an input from user then divides it with it 2 if the remainder is 0 it prints "Even" else "Odd".
+
+### **Program 3: Sum of Integers from 1 to 50 using loop**
+
+**Description:** using for Loop add all number from 1 to 50 and prints the result.gitsfsf
