@@ -27,3 +27,14 @@
 ### **Program 6: Using the math module for calculations**
 
 **Description:** Took input from user and used math module for calculations.
+
+
+# **Assignment 4**
+
+### **Program 7: Read file and handle error.**
+
+**Description:** In it we'll read the content of file, if the file doesn't exist then it will handle it and print the file isn't found.
+
+### **Program 8: Write and append data to a file.**
+
+**Description:** It takes user input and writes it to a file named output.txt then appends additional data to the same file. At last reads and displays the final content of the file.
